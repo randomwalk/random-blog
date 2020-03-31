@@ -1,9 +1,10 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: Individualisation Culturelle.
+description: Paradoxe: Toujours plus uniforme et toujours plus personnalisé.
+date: 2020-03-30
 tags:
-  - another-tag
+  - internet
+  - culture
 layout: layouts/post.njk
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
