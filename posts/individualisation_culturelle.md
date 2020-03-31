@@ -1,6 +1,6 @@
 ---
 title: Individualisation Culturelle.
-description: Paradoxe: Toujours plus uniforme et toujours plus personnalisé.
+description: "Paradoxe: Toujours plus uniforme et toujours plus personnalisé."
 date: 2020-03-30
 tags:
   - internet
