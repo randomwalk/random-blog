@@ -1,15 +1,14 @@
 {
   "title": "Random Walk",
-  "url": "https://myurl.com/",
+  "url": "https://blog.lepate.org/",
   "description": "I am writing about random stuff.",
   "feed": {
     "subtitle": "I am writing about random stuff.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://blog.lepate.org/"
   },
   "author": {
-    "name": "Random Walk",
-    "email": "youremailaddress@example.com"
+    "name": "Random Walk"
   }
 }
