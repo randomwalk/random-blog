@@ -1,6 +1,6 @@
 ---
-title: Rien à cacher
-description: L'éternel opposition entre vie privée et sécurité.
+title: Le meilleur jeu
+description: Quelle est la recette du jeu de société ultime?
 date: 2020-04-21
 tags:
   - jeu de société
