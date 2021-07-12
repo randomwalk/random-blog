@@ -11,4 +11,8 @@ layout: layouts/post.njk
 
 - Colons de catane: Inertie de victoire.
 - 7 wonders: peu d'interaction.
-- 5 tribes: Evolution à l'aveugle.
+- 5 tribes: Evolution à l'aveugle/ Points salad
+
+## Besoins
+- Mécanique "Perfect Parry"
+- Jeu simultané

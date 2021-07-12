@@ -25,9 +25,16 @@ If you think privacy is unimportant for you because you have nothing to hide, yo
 
 They agree that solitude and privacy is a nice thing to have, but that on balance they prefer to feel secure even if it means sacrificing some privacy - and since they make a large portion of the population they feel as though it's in line with democracy.
 
-To convince someone that they're wrong you need to argue on terms that they agree with otherwise they'll simply dismiss you.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+    Ultimately, saying that you don't care about privacy because you have nothing to hide is no different from saying you don't care about freedom of speech because you have nothing to say. Or that you don't care about freedom of the press because you don't like to read. Or that you don't care about freedom of religion because you don't believe in God. Or that you don't care about the freedom to peacably assemble because you're a lazy, antisocial agoraphobe.
+    Edward Snowden in Permanent Record
+
+    The NSA has built an infrastructure that allows it to intercept almost everything. With this capability, the vast majority of human communications are automatically ingested without targeting. If I wanted to see your emails or your wife's phone, all I have to do is use intercepts. I can get your emails, passwords, phone records, credit cards. I don't want to live in a society that does these sort of things... I do not want to live in a world where everything I do and say is recorded. That is not something I am willing to support or live under.
+    Edward Snowden in The Guardian
+
+    We all need places where we can go to explore without the judgmental eyes of other people being cast upon us, only in a realm where we're not being watched can we really test the limits of who we want to be. It's really in the private realm where dissent, creativity and personal exploration lie.
+    Glenn Greenwald in Huffington Post
+
 
 ``` js/2/4
 // this is a command
